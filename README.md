@@ -1,5 +1,5 @@
 ## Oii! Eu sou a Aline Grazii 👋
-:bulb: I have knowledge in:
+💻No momento estou estudando:
 <ul>
     <tr>
       <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -8,21 +8,15 @@
     </tr>
 </ul>
 
-💻 I want to learn:
-<ul>
-  <tr>
-    <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  </tr>
-</ul>
-
+ <div>
+  <a href="https://github.com/alinegrazii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinegrazii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinegrazii&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
 ##
 
 <div> 
   <a href="https://www.instagram.com/eualinegrazii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
   <a href="https://www.linkedin.com/in/alinegrazii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
