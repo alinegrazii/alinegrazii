@@ -1,4 +1,4 @@
-## Oii! Eu sou a Aline Grazii 👋
+## Oii! Eu sou a Aline 👋
    
 💻No momento estou estudando:
 <ul>
